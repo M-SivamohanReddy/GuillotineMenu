@@ -1,0 +1,173 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<api>
+<package name="com.yalantis.guillotine">
+<class abstract="false" deprecated="not deprecated" extends="java.lang.Object" extends-generic-aware="java.lang.Object" final="true" name="BuildConfig" static="false" visibility="public">
+<constructor deprecated="not deprecated" final="false" name="BuildConfig" static="false" type="com.yalantis.guillotine.BuildConfig" visibility="public">
+</constructor>
+<field deprecated="not deprecated" final="true" name="APPLICATION_ID" static="true" transient="false" type="java.lang.String" type-generic-aware="java.lang.String" value="&quot;com.yalantis.guillotine&quot;" visibility="public" volatile="false">
+</field>
+<field deprecated="not deprecated" final="true" name="BUILD_TYPE" static="true" transient="false" type="java.lang.String" type-generic-aware="java.lang.String" value="&quot;release&quot;" visibility="public" volatile="false">
+</field>
+<field deprecated="not deprecated" final="true" name="DEBUG" static="true" transient="false" type="boolean" type-generic-aware="boolean" value="false" visibility="public" volatile="false">
+</field>
+<field deprecated="not deprecated" final="true" name="FLAVOR" static="true" transient="false" type="java.lang.String" type-generic-aware="java.lang.String" value="&quot;&quot;" visibility="public" volatile="false">
+</field>
+<field deprecated="not deprecated" final="true" name="VERSION_CODE" static="true" transient="false" type="int" type-generic-aware="int" value="2" visibility="public" volatile="false">
+</field>
+<field deprecated="not deprecated" final="true" name="VERSION_NAME" static="true" transient="false" type="java.lang.String" type-generic-aware="java.lang.String" value="&quot;1.1&quot;" visibility="public" volatile="false">
+</field>
+</class>
+</package>
+<package name="com.yalantis.guillotine.animation">
+<class abstract="false" deprecated="not deprecated" extends="java.lang.Object" extends-generic-aware="java.lang.Object" final="false" name="GuillotineAnimation" static="false" visibility="public">
+<method abstract="false" deprecated="not deprecated" final="false" name="close" native="false" return="void" static="false" synchronized="false" visibility="public">
+</method>
+<method abstract="false" deprecated="not deprecated" final="false" name="open" native="false" return="void" static="false" synchronized="false" visibility="public">
+</method>
+</class>
+<class abstract="false" deprecated="not deprecated" extends="java.lang.Object" extends-generic-aware="java.lang.Object" final="false" name="GuillotineAnimation.1" static="false" visibility="">
+<implements name="android.view.ViewTreeObserver.OnGlobalLayoutListener" name-generic-aware="android.view.ViewTreeObserver.OnGlobalLayoutListener">
+</implements>
+<method abstract="false" deprecated="not deprecated" final="false" name="onGlobalLayout" native="false" return="void" static="false" synchronized="false" visibility="public">
+</method>
+</class>
+<class abstract="false" deprecated="not deprecated" extends="java.lang.Object" extends-generic-aware="java.lang.Object" final="false" name="GuillotineAnimation.2" static="false" visibility="">
+<implements name="android.view.View.OnClickListener" name-generic-aware="android.view.View.OnClickListener">
+</implements>
+<method abstract="false" deprecated="not deprecated" final="false" name="onClick" native="false" return="void" static="false" synchronized="false" visibility="public">
+<parameter name="p0" type="android.view.View">
+</parameter>
+</method>
+</class>
+<class abstract="false" deprecated="not deprecated" extends="java.lang.Object" extends-generic-aware="java.lang.Object" final="false" name="GuillotineAnimation.3" static="false" visibility="">
+<implements name="android.view.ViewTreeObserver.OnGlobalLayoutListener" name-generic-aware="android.view.ViewTreeObserver.OnGlobalLayoutListener">
+</implements>
+<method abstract="false" deprecated="not deprecated" final="false" name="onGlobalLayout" native="false" return="void" static="false" synchronized="false" visibility="public">
+</method>
+</class>
+<class abstract="false" deprecated="not deprecated" extends="java.lang.Object" extends-generic-aware="java.lang.Object" final="false" name="GuillotineAnimation.4" static="false" visibility="">
+<implements name="android.view.View.OnClickListener" name-generic-aware="android.view.View.OnClickListener">
+</implements>
+<method abstract="false" deprecated="not deprecated" final="false" name="onClick" native="false" return="void" static="false" synchronized="false" visibility="public">
+<parameter name="p0" type="android.view.View">
+</parameter>
+</method>
+</class>
+<class abstract="false" deprecated="not deprecated" extends="java.lang.Object" extends-generic-aware="java.lang.Object" final="false" name="GuillotineAnimation.5" static="false" visibility="">
+<implements name="android.animation.Animator.AnimatorListener" name-generic-aware="android.animation.Animator.AnimatorListener">
+</implements>
+<method abstract="false" deprecated="not deprecated" final="false" name="onAnimationCancel" native="false" return="void" static="false" synchronized="false" visibility="public">
+<parameter name="p0" type="android.animation.Animator">
+</parameter>
+</method>
+<method abstract="false" deprecated="not deprecated" final="false" name="onAnimationEnd" native="false" return="void" static="false" synchronized="false" visibility="public">
+<parameter name="p0" type="android.animation.Animator">
+</parameter>
+</method>
+<method abstract="false" deprecated="not deprecated" final="false" name="onAnimationRepeat" native="false" return="void" static="false" synchronized="false" visibility="public">
+<parameter name="p0" type="android.animation.Animator">
+</parameter>
+</method>
+<method abstract="false" deprecated="not deprecated" final="false" name="onAnimationStart" native="false" return="void" static="false" synchronized="false" visibility="public">
+<parameter name="p0" type="android.animation.Animator">
+</parameter>
+</method>
+</class>
+<class abstract="false" deprecated="not deprecated" extends="java.lang.Object" extends-generic-aware="java.lang.Object" final="false" name="GuillotineAnimation.6" static="false" visibility="">
+<implements name="android.animation.Animator.AnimatorListener" name-generic-aware="android.animation.Animator.AnimatorListener">
+</implements>
+<method abstract="false" deprecated="not deprecated" final="false" name="onAnimationCancel" native="false" return="void" static="false" synchronized="false" visibility="public">
+<parameter name="p0" type="android.animation.Animator">
+</parameter>
+</method>
+<method abstract="false" deprecated="not deprecated" final="false" name="onAnimationEnd" native="false" return="void" static="false" synchronized="false" visibility="public">
+<parameter name="p0" type="android.animation.Animator">
+</parameter>
+</method>
+<method abstract="false" deprecated="not deprecated" final="false" name="onAnimationRepeat" native="false" return="void" static="false" synchronized="false" visibility="public">
+<parameter name="p0" type="android.animation.Animator">
+</parameter>
+</method>
+<method abstract="false" deprecated="not deprecated" final="false" name="onAnimationStart" native="false" return="void" static="false" synchronized="false" visibility="public">
+<parameter name="p0" type="android.animation.Animator">
+</parameter>
+</method>
+</class>
+<class abstract="false" deprecated="not deprecated" extends="java.lang.Object" extends-generic-aware="java.lang.Object" final="false" name="GuillotineAnimation.GuillotineBuilder" static="true" visibility="public">
+<constructor deprecated="not deprecated" final="false" name="GuillotineAnimation.GuillotineBuilder" static="false" type="com.yalantis.guillotine.animation.GuillotineAnimation.GuillotineBuilder" visibility="public">
+<parameter name="p0" type="android.view.View">
+</parameter>
+<parameter name="p1" type="android.view.View">
+</parameter>
+<parameter name="p2" type="android.view.View">
+</parameter>
+</constructor>
+<method abstract="false" deprecated="not deprecated" final="false" name="build" native="false" return="com.yalantis.guillotine.animation.GuillotineAnimation" static="false" synchronized="false" visibility="public">
+</method>
+<method abstract="false" deprecated="not deprecated" final="false" name="setActionBarViewForAnimation" native="false" return="com.yalantis.guillotine.animation.GuillotineAnimation.GuillotineBuilder" static="false" synchronized="false" visibility="public">
+<parameter name="p0" type="android.view.View">
+</parameter>
+</method>
+<method abstract="false" deprecated="not deprecated" final="false" name="setClosedOnStart" native="false" return="com.yalantis.guillotine.animation.GuillotineAnimation.GuillotineBuilder" static="false" synchronized="false" visibility="public">
+<parameter name="p0" type="boolean">
+</parameter>
+</method>
+<method abstract="false" deprecated="not deprecated" final="false" name="setDuration" native="false" return="com.yalantis.guillotine.animation.GuillotineAnimation.GuillotineBuilder" static="false" synchronized="false" visibility="public">
+<parameter name="p0" type="long">
+</parameter>
+</method>
+<method abstract="false" deprecated="not deprecated" final="false" name="setGuillotineListener" native="false" return="com.yalantis.guillotine.animation.GuillotineAnimation.GuillotineBuilder" static="false" synchronized="false" visibility="public">
+<parameter name="p0" type="com.yalantis.guillotine.interfaces.GuillotineListener">
+</parameter>
+</method>
+<method abstract="false" deprecated="not deprecated" final="false" name="setInterpolator" native="false" return="com.yalantis.guillotine.animation.GuillotineAnimation.GuillotineBuilder" static="false" synchronized="false" visibility="public">
+<parameter name="p0" type="android.animation.TimeInterpolator">
+</parameter>
+</method>
+<method abstract="false" deprecated="not deprecated" final="false" name="setRightToLeftLayout" native="false" return="com.yalantis.guillotine.animation.GuillotineAnimation.GuillotineBuilder" static="false" synchronized="false" visibility="public">
+<parameter name="p0" type="boolean">
+</parameter>
+</method>
+<method abstract="false" deprecated="not deprecated" final="false" name="setStartDelay" native="false" return="com.yalantis.guillotine.animation.GuillotineAnimation.GuillotineBuilder" static="false" synchronized="false" visibility="public">
+<parameter name="p0" type="long">
+</parameter>
+</method>
+</class>
+</package>
+<package name="com.yalantis.guillotine.interfaces">
+<interface abstract="true" deprecated="not deprecated" final="false" name="GuillotineListener" static="false" visibility="public">
+<method abstract="true" deprecated="not deprecated" final="false" name="onGuillotineClosed" native="false" return="void" static="false" synchronized="false" visibility="public">
+</method>
+<method abstract="true" deprecated="not deprecated" final="false" name="onGuillotineOpened" native="false" return="void" static="false" synchronized="false" visibility="public">
+</method>
+</interface>
+</package>
+<package name="com.yalantis.guillotine.util">
+<class abstract="false" deprecated="not deprecated" extends="java.lang.Object" extends-generic-aware="java.lang.Object" final="false" name="ActionBarInterpolator" static="false" visibility="public">
+<implements name="android.animation.TimeInterpolator" name-generic-aware="android.animation.TimeInterpolator">
+</implements>
+<constructor deprecated="not deprecated" final="false" name="ActionBarInterpolator" static="false" type="com.yalantis.guillotine.util.ActionBarInterpolator" visibility="public">
+</constructor>
+<method abstract="false" deprecated="not deprecated" final="false" name="getInterpolation" native="false" return="float" static="false" synchronized="false" visibility="public">
+<parameter name="p0" type="float">
+</parameter>
+</method>
+</class>
+<class abstract="false" deprecated="not deprecated" extends="java.lang.Object" extends-generic-aware="java.lang.Object" final="false" name="GuillotineInterpolator" static="false" visibility="public">
+<implements name="android.animation.TimeInterpolator" name-generic-aware="android.animation.TimeInterpolator">
+</implements>
+<constructor deprecated="not deprecated" final="false" name="GuillotineInterpolator" static="false" type="com.yalantis.guillotine.util.GuillotineInterpolator" visibility="public">
+</constructor>
+<method abstract="false" deprecated="not deprecated" final="false" name="getInterpolation" native="false" return="float" static="false" synchronized="false" visibility="public">
+<parameter name="p0" type="float">
+</parameter>
+</method>
+<field deprecated="not deprecated" final="true" name="FIRST_BOUNCE_TIME" static="true" transient="false" type="float" type-generic-aware="float" value="0.266660" visibility="public" volatile="false">
+</field>
+<field deprecated="not deprecated" final="true" name="ROTATION_TIME" static="true" transient="false" type="float" type-generic-aware="float" value="0.466670" visibility="public" volatile="false">
+</field>
+<field deprecated="not deprecated" final="true" name="SECOND_BOUNCE_TIME" static="true" transient="false" type="float" type-generic-aware="float" value="0.266670" visibility="public" volatile="false">
+</field>
+</class>
+</package>
+</api>

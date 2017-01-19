@@ -1,0 +1,8 @@
+C:\Users\walkingtree\Documents\Visual Studio 2015\Projects\JavaBindingsLibrary\Scratch.JarBinding\Scratch.JarBinding\bin\Release\Scratch.JarBinding.dll
+C:\Users\walkingtree\Documents\Visual Studio 2015\Projects\JavaBindingsLibrary\Scratch.JarBinding\Scratch.JarBinding\bin\Release\Scratch.JarBinding.pdb
+C:\Users\walkingtree\Documents\Visual Studio 2015\Projects\JavaBindingsLibrary\Scratch.JarBinding\Scratch.JarBinding\obj\Release\Scratch.JarBinding.dll
+C:\Users\walkingtree\Documents\Visual Studio 2015\Projects\JavaBindingsLibrary\Scratch.JarBinding\Scratch.JarBinding\obj\Release\Scratch.JarBinding.pdb
+C:\Users\walkingtree\Documents\Visual Studio 2015\Projects\JavaBindingsLibrary\Scratch.JarBinding\Scratch.JarBinding\obj\Release\Scratch.JarBinding.dll.mdb
+C:\Users\walkingtree\Documents\Visual Studio 2015\Projects\JavaBindingsLibrary\Scratch.JarBinding\Scratch.JarBinding\bin\Release\Scratch.JarBinding.dll.mdb
+C:\Users\walkingtree\Documents\Visual Studio 2015\Projects\JavaBindingsLibrary\Scratch.JarBinding\Scratch.JarBinding\obj\Release\Scratch.JarBinding.dll.mdb
+C:\Users\walkingtree\Documents\Visual Studio 2015\Projects\JavaBindingsLibrary\Scratch.JarBinding\Scratch.JarBinding\bin\Release\Scratch.JarBinding.dll.mdb

@@ -1,0 +1,12 @@
+C:\Users\walkingtree\Documents\Visual Studio 2015\Projects\JavaBindingsLibrary\Scratch.JarBinding\ScratchBindingTestApp\obj\Release\android\assets\ScratchBindingTestApp.dll
+C:\Users\walkingtree\Documents\Visual Studio 2015\Projects\JavaBindingsLibrary\Scratch.JarBinding\ScratchBindingTestApp\obj\Release\android\assets\Java.Interop.dll
+C:\Users\walkingtree\Documents\Visual Studio 2015\Projects\JavaBindingsLibrary\Scratch.JarBinding\ScratchBindingTestApp\obj\Release\android\assets\Mono.Android.dll
+C:\Users\walkingtree\Documents\Visual Studio 2015\Projects\JavaBindingsLibrary\Scratch.JarBinding\ScratchBindingTestApp\obj\Release\android\assets\mscorlib.dll
+C:\Users\walkingtree\Documents\Visual Studio 2015\Projects\JavaBindingsLibrary\Scratch.JarBinding\ScratchBindingTestApp\obj\Release\android\assets\System.Core.dll
+C:\Users\walkingtree\Documents\Visual Studio 2015\Projects\JavaBindingsLibrary\Scratch.JarBinding\ScratchBindingTestApp\obj\Release\android\assets\System.dll
+C:\Users\walkingtree\Documents\Visual Studio 2015\Projects\JavaBindingsLibrary\Scratch.JarBinding\ScratchBindingTestApp\obj\Release\android\assets\System.Xml.dll
+C:\Users\walkingtree\Documents\Visual Studio 2015\Projects\JavaBindingsLibrary\Scratch.JarBinding\ScratchBindingTestApp\obj\Release\android\assets\Scratch.JarBinding.dll
+C:\Users\walkingtree\Documents\Visual Studio 2015\Projects\JavaBindingsLibrary\Scratch.JarBinding\ScratchBindingTestApp\obj\Release\android\assets\Xamarin.Android.Support.v4.dll
+C:\Users\walkingtree\Documents\Visual Studio 2015\Projects\JavaBindingsLibrary\Scratch.JarBinding\ScratchBindingTestApp\obj\Release\android\assets\Xamarin.Android.Support.v7.AppCompat.dll
+C:\Users\walkingtree\Documents\Visual Studio 2015\Projects\JavaBindingsLibrary\Scratch.JarBinding\ScratchBindingTestApp\obj\Release\android\assets\System.Runtime.Serialization.dll
+C:\Users\walkingtree\Documents\Visual Studio 2015\Projects\JavaBindingsLibrary\Scratch.JarBinding\ScratchBindingTestApp\obj\Release\android\assets\System.ServiceModel.Internals.dll

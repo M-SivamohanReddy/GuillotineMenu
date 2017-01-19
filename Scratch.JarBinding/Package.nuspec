@@ -1,0 +1,25 @@
+<?xml version="1.0"?>
+<package >
+  <metadata>
+    <id>GullotineMenu-Xamarin</id>
+    <version>1.2.0</version>
+    <authors>Sivamohan Reddy</authors>
+    <owners>Sivamohan Reddy</owners>
+    <licenseUrl>https://github.com/SIVAMOHANREDDY/NavigationDrawer</licenseUrl>
+    <projectUrl>https://github.com/SIVAMOHANREDDY/NavigationDrawer</projectUrl>
+    <iconUrl>https://github.com/SIVAMOHANREDDY/NavigationDrawer</iconUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>Guillotine animation</description>
+    <releaseNotes>Guillotine animation</releaseNotes>
+    <copyright>Copyright 2017</copyright>
+    <tags>Xamarin Android</tags>
+    <references>
+      <reference file="Scratch.JarBinding.dll"/>
+    </references>
+  </metadata>
+
+  <files>
+    <file src="Scratch.JarBinding\bin\Debug\Scratch.JarBinding.dll" target="lib\MonoAndroid" />
+  </files>
+
+</package>
